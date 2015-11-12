@@ -1,0 +1,8 @@
+## lfs.members
+ - rmdir
+ - _VERSION
+ - _DESCRIPTION
+ - mkdir
+ - _COPYRIGHT
+ - dir
+ - attributes
